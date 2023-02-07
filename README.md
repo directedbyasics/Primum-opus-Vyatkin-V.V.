@@ -1,0 +1,21 @@
+# Primum-opus-Vyatkin-V.V.
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<h1>Список группы сб:</h1>
+	
+	<form>
+		<p><input type="checkbox">Бобёр Глеб<Br>
+		<input type="checkbox" name="option2" value="a2" checked>Суслик Цирик<Br>
+		<input type="checkbox" name="option3" value="a3" checked>Капибара Вова<Br>
+		<input type="text" name="text" class="search" placeholder="Search here!">
+		<input type="submit" name="submit" class="submit" value="Отправить">
+	</form>
+</body>
+</html>
